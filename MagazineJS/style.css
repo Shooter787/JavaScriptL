@@ -1,0 +1,32 @@
+.container {
+max-width: 1400px;
+margin: auto;
+height: 1000px;
+}
+.back{
+background-color:rgba(212, 211, 211, 0.493);
+}
+.header{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+}
+
+.Zed{
+margin:15px;
+}
+.cart-button{
+margin:15px;
+}
+.goods-list{
+display:flex;
+justify-content:center;
+gap:100px;
+}
+.goods-item{
+width: 300px;
+height:300px;
+border: 1px solid #000000;
+border-radius: 10px;
+text-align:center;
+}
